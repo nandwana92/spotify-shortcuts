@@ -1,6 +1,8 @@
-# <img src="http://i.imgur.com/bu2L5Ju.png" height="48" align="left"> Spotify Shortcuts
+# <img src="http://i.imgur.com/bu2L5Ju.png" height="48" align="left"> Spotify Shortcuts [Deprecated]
 
 > [Chrome extension](https://chrome.google.com/webstore/detail/spotify-shortcuts/hkdeilkpooafmkohecdjnkliehacpkem) to add keyboard shortcuts for Spotify web player.
+
+> 🚨 This stopped working after Spotify revamped their web app so I took down the extension. Still putting the source code on GitHub for archival purposes 🤷🏼‍♂️.
 
 ## Highlights
 
